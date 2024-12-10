@@ -1,0 +1,6 @@
+# Ignore everything by default
+*/
+
+# Allow only files in the current directory
+!/*.py
+!/*.ipynb
